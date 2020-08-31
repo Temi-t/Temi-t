@@ -3,7 +3,7 @@
 
 ##  🌱About me?
 - I'm a  Petroleum🎓 and software engineer🖥, currently focusing on front-end technology.
-- I'm generally interested science🔧 and open to collaborating with other Web developers.
+- I'm generally interested in science🔧 and open to collaborating with other Web developers.
 
 ## 😇 Fun fact
 - I love anime and sci-fi 📺
