@@ -5,10 +5,10 @@
 - I'm a  Petroleum🎓 and software🖥 engineer, currently focusing on front-end technology.
 - I'm generally interested science🔧 and open to collaborating with other Web developers.
 
-##Fun fact
+## Fun fact
 - I love anime and sci-fi 📺
 <br />
-###Connect with me:
+### Connect with me:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tyrexprime/)
 
