@@ -8,7 +8,7 @@
 ## 😇 Fun fact
 - I love anime and sci-fi 📺
 - My best ideas come to me in the shower🛁🚿  🙈
-#### 🔴current challenge: #300daysofcode🔥🔥🔥... ⚡
+#### 🔴 Current challenge: #300daysofcode🔥🔥🔥... ⚡
 -Day <b>167</b> 😹
 
 <hr />
