@@ -8,7 +8,7 @@
 ## 😇 Fun fact
 - I love anime and sci-fi 📺
 #### current challenge: #300daysofcode🔥🔥🔥... ⚡
--Day <b>166</b> 😹
+-Day <b>167</b> 😹
 
 <hr />
 
