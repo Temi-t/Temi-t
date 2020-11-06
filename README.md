@@ -2,8 +2,11 @@
 ### 🤓 Hi there, I'm Temi 👋, it's great to have you around.
 
 ##  🌱About me?
-- I'm a  Petroleum🎓 and software engineer🖥, currently focusing on front-end technology.
+- I'm a  Petroleum🎓 and software engineer🖥.
+-Short term objective: focusing on front-end technologies.
+- Long term objective: get hands on experience and exposure in tech, on a journey to become a full-stack developer.
 - I'm generally interested in science🔧 and open to collaborating with other Web developers.
+
  ## 👉  [⭐My Portfolio⭐]( https://temi-t.github.io/portfolio/)🔎📂
 
 
