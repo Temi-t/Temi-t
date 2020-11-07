@@ -5,7 +5,7 @@
 
 - I'm a  Petroleum🎓 and software engineer🖥.
 - Short term objective: focus on front-end technologies.
-- Long term objective: get hands on experience and exposure in tech, on a journey to become a full-stack developer.
+- Long term objective: get hands-on experience and exposure in tech, on a journey to become a full-stack developer.
 - I'm generally interested in science🔧 and open to collaborating with other Web developers.
 
 
