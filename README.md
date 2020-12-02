@@ -16,7 +16,7 @@
 - I love anime and sci-fi 📺
 - My best ideas come to me in the shower🛁🚿  🙈
 ## 🔴 Current challenge:  #300daysofcode🔥🔥🔥... ⚡
-... Day <b>247</b>... 😹
+... Day <b>250</b>... 😹
 
 <hr />
 
