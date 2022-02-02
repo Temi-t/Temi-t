@@ -4,8 +4,8 @@
 ##  🌱About me?
 
 - I'm a  Petroleum🎓 and software engineer🖥.
-- Short term objective: focus on front-end technologies.
-- Long term objective: get hands-on experience and exposure in tech, on a journey to become a full-stack developer.
+- Focused on React and it's surrounding technologies.
+- Long term objective: continue gaining experience and exposure in full-stack development.
 - I'm generally interested in science🔧 and open to collaborating with other Web developers.
 
 
@@ -13,8 +13,8 @@
 
 
 ## 😇 Fun fact
-- I enjoy writing boiler-plate code 😊 📜
-- I love anime and sci-fi 📺
+- I often enjoy writing boiler-plate code 😊 📜
+- I love sci-fi 📺
 - My best ideas come to me in the shower🛁🚿  🙈
 <!-- ## 🔴 Current challenge:  #300daysofcode🔥🔥🔥... ⚡
 ... Day <b>260</b>... 😹
