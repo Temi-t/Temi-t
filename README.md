@@ -3,12 +3,13 @@
 
 ##  🌱About me?
 
-- I'm a  Petroleum🎓 and software engineer🖥.
+<!-- I'm a  Petroleum🎓 and software engineer🖥.
 - Focused on React and it's surrounding technologies.
 - Long term objective: continue gaining experience and exposure in full-stack development.
 - I'm generally interested in science🔧 and open to collaborating with other Web developers.
-<img height="200" width="500" src="https://drive.google.com/file/d/1PpCbYuEecUgBgigmD8fGOWXOvNcBO9vj/view?usp=sharing" />
-<img height="200" width="600" src="./yellow.png" alt="code snippet" />
+-->
+
+<img height="450" width="900" src="./yellow.png" alt="code snippet" />
 
  ## 👉  [⭐My Portfolio⭐]( https://temi-t.github.io/portfolio/)🔎📂
 
