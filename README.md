@@ -7,7 +7,7 @@
 - Focused on React and it's surrounding technologies.
 - Long term objective: continue gaining experience and exposure in full-stack development.
 - I'm generally interested in science🔧 and open to collaborating with other Web developers.
-<img height="200" width="300" src="https://drive.google.com/file/d/1PpCbYuEecUgBgigmD8fGOWXOvNcBO9vj/view?usp=sharing" />
+<img height="200" width="500" src="https://drive.google.com/file/d/1PpCbYuEecUgBgigmD8fGOWXOvNcBO9vj/view?usp=sharing" />
 
  ## 👉  [⭐My Portfolio⭐]( https://temi-t.github.io/portfolio/)🔎📂
 
