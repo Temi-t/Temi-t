@@ -9,7 +9,7 @@
 - I'm generally interested in science🔧 and open to collaborating with other Web developers.
 -->
 
-<img height="450" width="900" src="./yellow.png" alt="code snippet" />
+<img height="500" width="1000" src="./yellow.png" alt="code snippet" />
 
  ## 👉  [⭐My Portfolio⭐]( https://temi-t.github.io/portfolio/)🔎📂
 
