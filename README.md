@@ -1,5 +1,5 @@
 
-### 🤓 Hi there, I'm Temi 👋, it's great to have you around.
+> ### 🤓 Hi there, I'm Temi 👋, it's great to have you around.
 
 ##  🌱About me?
 
