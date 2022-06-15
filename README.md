@@ -31,7 +31,7 @@
 
 ###  📬 📨Connect with me💬 :
 
-<img style="color: #E4405F;" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tyrexprime/)   <span> .  .  . </span>[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/temitayo-oyebode-334b9b80/)
+[<img style="color: #E4405F;" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tyrexprime/)   <span> .  .  . </span>[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/temitayo-oyebode-334b9b80/)
 
 
 <hr />
