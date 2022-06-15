@@ -13,7 +13,7 @@
 
 ![code snippet](./yellow.png)
 
-
+[<img height="32" width="32" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />]
 
  ## 👉  [⭐My Portfolio⭐]( https://temi-t.github.io/portfolio/)🔎📂
 
