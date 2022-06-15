@@ -1,6 +1,6 @@
 
 <img height="40" width="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
- ### 🤓 Hi there, I'm Temi , it's great to have you around.
+### 🤓 Hi there, I'm Temi , it's great to have you around.
 
 ##  🌱About me?
 
